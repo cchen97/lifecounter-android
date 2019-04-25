@@ -17,7 +17,7 @@ class MainActivity : AppCompatActivity() {
         var n: Int = 0
         for (i in playerIds){
             n += 1
-            startGame(i, n);
+            startGame(i, n)
         }
     }
 
