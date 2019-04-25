@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Life Counter</string>
+    <string name="button_minus5">-5</string>
+    <string name="button_minus1">-1</string>
+    <string name="button_plus1">+1</string>
+    <string name="button_plus5">+5</string>
+    <string name="text_life_label">Life Total: </string>
+    <string name="text_starting_life_total">20</string>
+    <string name="text_death_label">Everyone is still alive!</string>
+</resources>
