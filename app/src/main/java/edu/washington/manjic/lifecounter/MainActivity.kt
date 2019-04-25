@@ -26,7 +26,7 @@ class MainActivity : AppCompatActivity() {
         activateButtons(player, R.id.btn_minus1, -1, playerNumber)
         activateButtons(player, R.id.btn_minus5, -5, playerNumber)
         activateButtons(player, R.id.btn_plus1, 1, playerNumber)
-        activateButtons(player, R.id.btn_plus5, 1, playerNumber)
+        activateButtons(player, R.id.btn_plus5, 5, playerNumber)
     }
 
     private fun activateButtons(player: View, buttonID: Int, difference: Int, playerNumber: Int) {
